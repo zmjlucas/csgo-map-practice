@@ -1,0 +1,15 @@
+https://github.com/zmjlucas/csgo-map-practice
+
+--------------------------------
+
+2022-05-11 [v1.0.2]
++ zh language support
++ en language support
+
+2022-05-10 [v1.0.1]
+= First release
+
+2022-05-07 []
+= Project started
+
+--------------------------------
